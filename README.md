@@ -7,7 +7,7 @@ Link download termux : https://f-droid.org/repo/com.termux_118.apk
 ````
 rm -rf XYTEEE-XD
 git clone https://github.com/XYTEEE/XYTEEE-XD
-cd XYTEEE-XC
+cd XYTEEE-XD
 python Script.py
 ````
 
