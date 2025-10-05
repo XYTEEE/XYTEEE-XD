@@ -1,6 +1,6 @@
 import os, sys
 try:
-    __import__("MAIN").main()
+    __import__("Public").menu()
 except Exception as e:
     exit(str(e))
  
